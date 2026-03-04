@@ -2,11 +2,7 @@
 <h3 align="center">web designing is just what I love most</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saucygold&label=Profile%20views&color=0e75b6&style=flat" alt="saucygold" /> </p>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/jeytRhb6lBxPEEk85RonZtai6tRUBB-6QVlVWK1yBrM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9j/b2RpbmctbWFuXzEw/OTgtMTgwODQuanBn/P3NpemU9NjI2JmV4/dD1qcGc">
-- 🔭 I’m currently working on **simple demo i.e. java login**
-
-- 🌱 I’m currently learning **java**
-
-- 🤝 I’m looking for help with **php**
+- 🔭 I’m currently multiple websites, e-commerce, portfolio and any type of website
 
 - 💬 Ask me about **html and css**
 
